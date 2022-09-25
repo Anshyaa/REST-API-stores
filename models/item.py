@@ -1,4 +1,3 @@
-from sqlite3 import SQLITE_DROP_TEMP_INDEX
 from db import db 
 
 class ItemModel(db.Model):
